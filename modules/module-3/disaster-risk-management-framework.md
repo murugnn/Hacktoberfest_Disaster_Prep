@@ -4,11 +4,11 @@
 
 ## 1. Definition of Disaster Risk Management
 
-![Image](https://www.researchgate.net/publication/242716036/figure/fig5/AS%3A298467294498822%401448171556960/Key-elements-of-disaster-risk-management-FIG-2006.png)
+![DRM Key Elements](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/drm-elements-key.png)
 
-![Image](https://www.undrr.org/sites/default/files/2021-04/UDR-Terminology.png)
+![UNDRR Terminology Banner](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/undrr-terminology.png)
 
-![Image](https://www.researchgate.net/publication/339835852/figure/fig2/AS%3A867712049872898%401583890082840/Disaster-management-cycle.png)
+![Disaster Management Cycle Diagram](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/dm-cycle-researchgate.png)
 
 The term **United Nations Office for Disaster Risk Reduction (UNDRR)** defines **disaster risk management (DRM)** as:
 
@@ -44,7 +44,7 @@ DRR is like building a strong dam; DRM is building it, monitoring floods, evacua
 
 ## 3. Core Elements of Disaster Risk Management
 
-![Image](https://www.researchgate.net/publication/351704277/figure/fig2/AS%3A1027294130872330%401621937415502/The-disaster-risk-management-cycle-and-typical-phases-it-is-composed-of-Bosher.png)
+![DRM Cycle Phases](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/drm-cycle-phases.png)
 
 ### 3.1 Risk Identification and Assessment
 
@@ -108,7 +108,7 @@ DRR is like building a strong dam; DRM is building it, monitoring floods, evacua
 
 ## 6. Early Warning Systems (EWS)
 
-![Image](https://practicalaction.org/wp-content/uploads/2023/05/ews-diagram-800x800.jpg)
+![Early Warning System Components](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/ews-diagram.jpg)
 
 > “An integrated system of hazard monitoring, forecasting, risk assessment, communication and preparedness enabling timely action.” — [UNDRR][11]
 
