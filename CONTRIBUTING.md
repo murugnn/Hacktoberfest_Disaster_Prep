@@ -64,7 +64,7 @@ git checkout -b feat/issue-15-disaster-cycle-notes
 This is where you do the actual work.
 
 1.  **Create Your Notes File:** Navigate to the `notes/` directory and find the correct module folder (e.g., `Module-3/`). Create your new Markdown file there.
-2.  **Add and Verify Content:** Add your AI-generated notes to the file. **Crucially, review, edit, and verify the information for accuracy.**
+2.  **Add and Verify Content:** Add your AI-generated notes to the file. If the notes are web-based, provide appropriate citations with the notes. **Crucially, review, edit, and verify the information for accuracy.**
 3.  **Update the README:** Open the `README.md` file and add a new row to the "Our Awesome Contributors" table with your name and GitHub profile link.
 
 ### Step 5: Commit and Push Your Changes
