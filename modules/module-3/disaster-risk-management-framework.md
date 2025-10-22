@@ -4,11 +4,11 @@
 
 ## 1. Definition of Disaster Risk Management
 
-![DRM Key Elements](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/drm-elements-key.png)
+![DRM Key Elements](images/Key-elements-of-disaster-risk-management-FIG-2006.png)
 
-![UNDRR Terminology Banner](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/undrr-terminology.png)
+![UNDRR Terminology Banner](images/UDR-Terminology.png)
 
-![Disaster Management Cycle Diagram](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/dm-cycle-researchgate.png)
+![Disaster Management Cycle Diagram](images/Disaster-management-cycle.png)
 
 The term **United Nations Office for Disaster Risk Reduction (UNDRR)** defines **disaster risk management (DRM)** as:
 
@@ -44,7 +44,7 @@ DRR is like building a strong dam; DRM is building it, monitoring floods, evacua
 
 ## 3. Core Elements of Disaster Risk Management
 
-![DRM Cycle Phases](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/drm-cycle-phases.png)
+![DRM Cycle Phases](images/The-disaster-risk-management-cycle-and-typical-phases-it-is-composed-of-Bosher.png)
 
 ### 3.1 Risk Identification and Assessment
 
@@ -108,7 +108,7 @@ DRR is like building a strong dam; DRM is building it, monitoring floods, evacua
 
 ## 6. Early Warning Systems (EWS)
 
-![Early Warning System Components](https://raw.githubusercontent.com/Pranay22077/Hacktoberfest_Disaster_Prep/main/modules/module-3/images/ews-diagram.jpg)
+![Early Warning System Components](images/ews-diagram-800x800.jpg)
 
 > “An integrated system of hazard monitoring, forecasting, risk assessment, communication and preparedness enabling timely action.” — [UNDRR][11]
 
