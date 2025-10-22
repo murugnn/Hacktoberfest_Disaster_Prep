@@ -56,7 +56,7 @@ A huge thank you to everyone who has contributed to this project!
 
 | Name             | GitHub Profile                               | Contribution                               |
 | ---------------- | -------------------------------------------- | ------------------------------------------ |
-| * GOUTHAM V E* | *https://github.com/GOUTHAMVE04*             | *Add detailed hazard mapping study guide*  |
+| *GOUTHAM V E* | *https://github.com/GOUTHAMVE04*             | *Add detailed hazard mapping study guide*  |
 
 
 
