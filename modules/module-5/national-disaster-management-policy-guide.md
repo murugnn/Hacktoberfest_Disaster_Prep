@@ -1,4 +1,20 @@
 # National Policy on Disaster Management 2009: A Comprehensive Study Guide
+## Quick Reference Guide
+
+| Component | Key Points |
+|-----------|-----------|
+| **Year Adopted** | 2009 |
+| **Legal Basis** | Disaster Management Act, 2005 |
+| **Approach** | Holistic, Proactive, Multi-disaster, Technology-driven |
+| **Key Paradigm Shift** | Relief-centric → Prevention-focused |
+| **Apex Body** | NDMA (Chaired by Prime Minister) |
+| **NDRF Strength** | 16 battalions, ~18,384 personnel |
+| **State Bodies** | 28 SDMAs, DDMAs in all districts |
+| **Financial Mechanisms** | NDRF (National), SDRF (State), NDMF (Mitigation) |
+| **Global Alignment** | Sendai Framework 2015-2030 |
+| **Lives Saved by NDRF** | 1,59,293+ since inception |
+
+---
 
 ## 1. Background and Context
 
@@ -45,6 +61,21 @@ The policy advocates undertaking reconstruction as an opportunity to build disas
 ### 3.9 Media Partnership
 Promoting productive and proactive partnership with media in disaster management ensures effective communication, public awareness, and capacity development through media channels.
 
+### 3.10 Memory Aid for Objectives
+
+To help remember these nine key objectives, use the mnemonic **"PRIME-RCB"**:
+
+- **P** - Promoting culture of **P**revention and resilience
+- **R** - **R**isk identification and monitoring
+- **I** - **I**nstitutional frameworks (techno-legal)
+- **M** - **M**itigation measures & **M**ainstreaming into development
+- **E** - **E**arly warning systems
+- **R** - Efficient **R**esponse and relief
+- **C** - **C**ommunity and media partnership
+- **B** - **B**uild back better (reconstruction)
+
+This framework covers the complete disaster management cycle from prevention through recovery, emphasizing the policy's holistic approach.
+
 ## 4. Salient Features of the Policy
 
 ### 4.1 Holistic and Integrated Approach
@@ -72,7 +103,29 @@ The policy specifically addresses the needs of women and vulnerable groups, reco
 Rather than focusing on individual hazard types, the policy adopts a multi-hazard approach that prepares communities and institutions to deal with various types of disasters simultaneously.
 
 ### 4.9 Financial Mechanisms
-The policy establishes clear financial arrangements including the National Disaster Response Fund (NDRF) and State Disaster Response Funds (SDRF) to ensure adequate resources for disaster management activities.
+The policy establishes comprehensive financial arrangements to ensure adequate resources for all phases of disaster management:
+
+**National Disaster Response Fund (NDRF):**
+- Managed by the Central Government at the national level
+- Used for meeting expenses for emergency response, relief, and rehabilitation
+- Funded through budgetary allocations and voluntary contributions
+- Utilized for disasters of severe nature requiring central assistance
+
+**State Disaster Response Fund (SDRF):**
+- Constituted in each state as the primary fund for state-level disaster response
+- Funded through cost-sharing between Centre and States:
+  - General category states: 75% Central contribution, 25% State contribution
+  - Special category states (NE and Himalayan states): 90% Central, 10% State
+- Used for immediate relief measures as per approved norms
+- Annual allocation based on Finance Commission recommendations
+
+**National Disaster Mitigation Fund (NDMF):**
+- Focuses on mitigation and preparedness projects
+- Supports structural mitigation (retrofitting, cyclone shelters) and non-structural measures (capacity building, awareness programs)
+- Encourages proactive investment in risk reduction
+- Emphasizes the principle that "prevention is better and cheaper than cure"
+
+This three-tier financial architecture ensures resources are available for both immediate response and long-term risk reduction.
 
 ### 4.10 Knowledge Management
 Systematic documentation, research, and knowledge sharing are prioritized to build a strong evidence base for disaster management decisions and continuous learning.
@@ -94,6 +147,41 @@ The NPDM represents a fundamental transformation in India's disaster management 
 **Long-term Resilience Building:** The focus extends beyond immediate relief to building long-term resilience of communities, infrastructure, and systems. This involves strengthening livelihoods, social cohesion, and institutional capacities.
 
 **Comprehensive Risk Management:** The policy addresses the entire disaster management cycle—prevention, mitigation, preparedness, response, recovery, and reconstruction—rather than focusing solely on relief operations.
+
+### Practical Demonstration of the Paradigm Shift
+
+The transformation from relief-centric to prevention-focused approach is evident in India's handling of major disasters:
+
+**Cyclone Management Evolution:**
+- **Pre-2009 Approach:** Odisha Super Cyclone (1999) caused 10,000+ deaths; focus was primarily on post-cyclone relief distribution and rehabilitation
+- **Post-2009 Approach:** 
+  - 72-hour advance warnings through India Meteorological Department (IMD)
+  - Mass evacuations based on risk assessment (1.2 million people evacuated during Cyclone Fani, 2019)
+  - Network of cyclone shelters constructed in coastal areas
+  - Community-based early warning dissemination systems
+  - **Result:** Despite facing intense cyclones like Phailin (2013) and Fani (2019), casualties reduced to double digits from thousands
+
+**Earthquake Preparedness:**
+- **Pre-2009:** Gujarat Earthquake (2001) resulted in 20,000+ deaths; response was primarily post-disaster rescue and relief
+- **Post-2009:**
+  - Comprehensive seismic zone mapping across the country completed
+  - Building code enforcement strengthened in vulnerable areas
+  - Regular mock drills conducted in schools, offices, and communities in seismic zones
+  - Public awareness campaigns on "Drop, Cover, and Hold" protocols
+  - Retrofitting of critical infrastructure and lifeline buildings
+  - **Impact:** Enhanced preparedness and resilience in earthquake-prone regions
+
+**Flood Management:**
+- **Traditional Approach:** Reactive response after floods occurred, focus on relief camps and compensation
+- **Contemporary Approach:**
+  - Real-time flood forecasting systems with 24-48 hour lead time
+  - Flood hazard mapping and vulnerability assessment
+  - Early warning dissemination through multiple channels including mobile alerts
+  - Identification and preparation of evacuation routes and temporary shelters
+  - Community training on flood preparedness and response
+  - **Example:** During Kerala Floods (2018), despite unprecedented rainfall, early warnings and coordinated evacuation saved countless lives
+
+These examples demonstrate how the policy's emphasis on prevention, preparedness, and early warning has translated into tangible reduction in disaster casualties and more effective disaster management.
 
 ## 6. Institutional Mechanisms
 
