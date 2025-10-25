@@ -56,7 +56,7 @@ A huge thank you to everyone who has contributed to this project!
 
 | Name             | GitHub Profile                               | Contribution                               |
 | ---------------- | -------------------------------------------- | ------------------------------------------ |
-| *Your Name Here* | *[Link to your GitHub profile]*             | *e.g., Added notes on Tsunami Mitigation*  |
+| *GOUTHAM V E* | *https://github.com/GOUTHAMVE04*             | *Add detailed hazard mapping study guide*  |
 
 
 
