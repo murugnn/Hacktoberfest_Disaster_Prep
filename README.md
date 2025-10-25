@@ -57,7 +57,9 @@ A huge thank you to everyone who has contributed to this project!
 | Name             | GitHub Profile                               | Contribution                                                      |
 | ---------------- | -------------------------------------------- | ----------------------------------------------------------------- |
 | Akriti Kumari    | [AKRITI-ENG](https://github.com/AKRITI-ENG) | Added comprehensive guide on National Policy on Disaster Management 2009 |
-| *Your Name Here* | *[Link to your GitHub profile]*              | *e.g., Added notes on Tsunami Mitigation*                         |
+| GOUTHAM V E | [Goutham V E](https://github.com/GOUTHAMVE04)             | Add detailed hazard mapping study guide  |
+
+
 
 *(As part of your first contribution, you'll add your own name to this table!)*
 
