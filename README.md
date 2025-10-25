@@ -54,9 +54,10 @@ Please name your files clearly and concisely with underscores.
 
 A huge thank you to everyone who has contributed to this project!
 
-| Name             | GitHub Profile                               | Contribution                               |
-| ---------------- | -------------------------------------------- | ------------------------------------------ |
-| *GOUTHAM V E* | *https://github.com/GOUTHAMVE04*             | *Add detailed hazard mapping study guide*  |
+| Name             | GitHub Profile                               | Contribution                                                      |
+| ---------------- | -------------------------------------------- | ----------------------------------------------------------------- |
+| Akriti Kumari    | [AKRITI-ENG](https://github.com/AKRITI-ENG) | Added comprehensive guide on National Policy on Disaster Management 2009 |
+| GOUTHAM V E | [Goutham V E](https://github.com/GOUTHAMVE04)             | Add detailed hazard mapping study guide  |
 
 
 
