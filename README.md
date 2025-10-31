@@ -46,22 +46,23 @@ notes/
 ```
 
 ### File Naming Convention
+
 Please name your files clearly and concisely with underscores.
-*   **Good:** `Disaster_Management_Cycle.md`
-*   **Bad:** `dm cycle notes.md`
+
+- **Good:** `Disaster_Management_Cycle.md`
+- **Bad:** `dm cycle notes.md`
 
 ## ✨ Our Awesome Contributors
 
 A huge thank you to everyone who has contributed to this project!
 
-| Name             | GitHub Profile                               | Contribution                                                      |
-| ---------------- | -------------------------------------------- | ----------------------------------------------------------------- |
-| Akriti Kumari    | [AKRITI-ENG](https://github.com/AKRITI-ENG) | Added comprehensive guide on National Policy on Disaster Management 2009 |
-| GOUTHAM V E | [Goutham V E](https://github.com/GOUTHAMVE04)             | Add detailed hazard mapping study guide  |
+| Name                | GitHub Profile                                | Contribution                                                             |
+| ------------------- | --------------------------------------------- | ------------------------------------------------------------------------ |
+| Akriti Kumari       | [AKRITI-ENG](https://github.com/AKRITI-ENG)   | Added comprehensive guide on National Policy on Disaster Management 2009 |
+| GOUTHAM V E         | [Goutham V E](https://github.com/GOUTHAMVE04) | Add detailed hazard mapping study guide                                  |
+| CHISANEME .C. ALONI | [ALACHI24](https://github.com/Alachi24)       | Add detailed risk assessment study guide                                 |
 
-
-
-*(As part of your first contribution, you'll add your own name to this table!)*
+_(As part of your first contribution, you'll add your own name to this table!)_
 
 ---
 
